@@ -1,2 +1,2 @@
 # SpaceWarGame
-I can developed Space-War Game using html,css,javascript.
+I developed Space-War Game using html,css,javascript.
